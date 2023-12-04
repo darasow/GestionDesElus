@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1677615860 source:c:\users\hp\desktop\projetcorige\gestiondeseluc++\main.cpp
+	"declaration.h"
+
+1676761983 c:\users\hp\desktop\projetcorige\gestiondeseluc++\personne.h
+	<iostream>
+
+1677615505 c:\users\hp\desktop\projetcorige\gestiondeseluc++\elunormal.h
+	"Personne.h"
+
+1675857434 c:\users\hp\desktop\projetcorige\gestiondeseluc++\assistant.h
+
+1677615860 c:\users\hp\desktop\projetcorige\gestiondeseluc++\declaration.h
+	<typeinfo>
+	"EluNormal.h"
+	"EluEscro.h"
+	"EluMafieux.h"
+	"EluEconome.h"
+	"fonction.h"
+
+1676761415 c:\users\hp\desktop\projetcorige\gestiondeseluc++\eluescro.h
+	"EluNormal.h"
+
+1676761336 c:\users\hp\desktop\projetcorige\gestiondeseluc++\elumafieux.h
+	"EluNormal.h"
+
+1676761996 c:\users\hp\desktop\projetcorige\gestiondeseluc++\elueconome.h
+	"EluNormal.h"
+
+1676802911 c:\users\hp\desktop\projetcorige\gestiondeseluc++\fonction.h
+	<windows.h>
+	<cstdlib>
+	<stdio.h>
+	<cstring>
+	<ctime>
+	<iostream>
+

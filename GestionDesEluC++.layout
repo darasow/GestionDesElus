@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="fonction.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5141" topLine="129" />
+		</Cursor>
+	</File>
+	<File name="EluEconome.h" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="234" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="20675" topLine="689" />
+		</Cursor>
+	</File>
+	<File name="declaration.h" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="701" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="EluNormal.h" open="1" top="1" tabpos="13" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4179" topLine="132" />
+		</Cursor>
+	</File>
+	<File name="EluEscro.h" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="265" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="Personne.h" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2371" topLine="62" />
+		</Cursor>
+	</File>
+	<File name="EluMafieux.h" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="187" topLine="36" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
